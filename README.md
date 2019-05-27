@@ -4,3 +4,5 @@ Análitica de movimiento de datos de trayectoria de Uber en Nueva York tomados d
 
 Preprocesamiento con R e interfaz R Shiny.
 
+Despliegue:
+
